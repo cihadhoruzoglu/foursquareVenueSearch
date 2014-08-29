@@ -1,5 +1,13 @@
-Ionic App Base
+Foursquare Venue Search with Angular & Ionic Framework
 =====================
+
+Workshop made @ IstanbulCoders using Angular & Ionic framework. 
+
+Presentation: http://www.slideshare.net/cihadhoruzoglu/hybrid-apps-with-angular-ionic-framework
+
+Workshop video: http://youtu.be/llohkBGhH8Y
+
+##Ionic App Base
 
 A starting project for Ionic that optionally supports
 using custom SCSS.
