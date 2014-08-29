@@ -1,0 +1,24 @@
+<ion-view title="Arama">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+
+        <form name="search-form" ng-submit="search()">
+
+            <div class="list">
+
+                <div class="item item-input-inset">
+                    <label class="item-input-wrapper">
+                        <input type="text" ng-model="mainData.searchText" placeholder="Aramak istediginiz mekan adini giriniz">
+                    </label>
+                    <button class="button button-small">
+                        Ara
+                    </button>
+                </div>
+
+            </div>
+        </form>
+
+    </ion-content>
+</ion-view>
